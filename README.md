@@ -4,7 +4,7 @@ Cultivateur De Coton
 Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=1452761580
 Vidéo : https://youtu.be/XIWgoSnO9UA
 
-Credit : http://www.github.com/wyozi
+Atila : https://www.youtube.com/channel/UC5jkdRXxqy2z4NHLks0zyVQ
  
 Capture d'écran :
-<p><img src="https://media.discordapp.net/attachments/462660509003546634/465188733713514496/20180707065958_1.jpg?width=1142&height=641" alt="Addon view" data-canonical-src="https://media.discordapp.net/attachments/462660509003546634/465188733713514496/20180707065958_1.jpg?width=1142&height=641" style="max-width:100%;"></p>
+<p><img src="https://steamuserimages-a.akamaihd.net/ugc/986736921518198436/17227C5724B23C6C335F5CFEDF9417D343CE5FAD/" alt="Addon view" data-canonical-src="https://steamuserimages-a.akamaihd.net/ugc/986736921518198436/17227C5724B23C6C335F5CFEDF9417D343CE5FAD/" style="max-width:100%;"></p>
